@@ -24,10 +24,3 @@ Acquiring new customers is 5x to 25x more expensive than retaining existing ones
 * **Evaluation Metrics:** ROC-AUC Score, Classification Report, Confusion Matrix
 
 ---
-
-## ⚙️ How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/customer-churn-prediction.git](https://github.com/YOUR_USERNAME/customer-churn-prediction.git)
-cd customer-churn-prediction
